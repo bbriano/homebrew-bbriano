@@ -1,1 +1,10 @@
 My personal homebrew tap.
+
+Argv (https://github.com/bbriano/argv):
+    $ brew install bbriano/bbriano/argv
+
+Drunkcase (https://github.com/bbriano/drunkcase):
+    $ brew install bbriano/bbriano/drunkcase
+
+Rot13 (https://github.com/bbriano/rot13):
+    $ brew install bbriano/bbriano/rot13
